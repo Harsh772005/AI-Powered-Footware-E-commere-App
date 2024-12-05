@@ -81,4 +81,5 @@ This repository is a complete solution for a footwear e-commerce platform with A
 - If you have any questions or suggestions, feel free to contact me at:
 
 - Email: harshbhanushali.ai@gmail.com
+- Email: 22AIML049@charusat.edu.in
 - GitHub: Harsh772005
