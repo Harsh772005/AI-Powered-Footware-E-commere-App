@@ -75,7 +75,7 @@ This repository is a complete solution for a footwear e-commerce platform with A
 
 ## **Dataset**
 - The shoe classification model was trained on a dataset of 13,000 shoe images.
-- You can find the dataset on Kaggle:[Dataset Link]['https://www.kaggle.com/datasets/utkarshsaxenadn/shoes-classification-dataset-13k-images']
+- You can find the dataset on Kaggle:[Dataset Link](#https://www.kaggle.com/datasets/utkarshsaxenadn/shoes-classification-dataset-13k-images)
 
 ## **Contact**
 - If you have any questions or suggestions, feel free to contact me at:
